@@ -3,6 +3,9 @@ package note_chord_allocation;
 /**
  * Diese abstrakte Klasse implementiert die Attribute, die alle Dreiklänge 
  * gemeinsam haben.
+ *
+ * Ein Dreiklang ist eine bestimmte Form eines Akkordes, bestehend aus 
+ * 3 Tönen.
  * 
  * @author Andre Zahn
  */
